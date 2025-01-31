@@ -1,5 +1,5 @@
-# Basic Programming Final Project: Simple Calculator
-This project is the final assignment for the basic programming algorithm practicum. The objective is to develop a simple calculator that performs arithmetic operations, including addition, subtraction, multiplication, division, and exponentiation with proper precedence rules. The program also includes error detection for issues like consecutive operators and missing spaces.
+# Simple Calculator With C
+The objective of this project is to develop a simple calculator that performs arithmetic operations, including addition, subtraction, multiplication, division, and exponentiation with proper precedence rules. The program also includes error detection for issues like consecutive operators and missing spaces.
 
 
 ## How It Works
